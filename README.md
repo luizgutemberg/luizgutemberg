@@ -1,31 +1,54 @@
 
 
-🖖 Olá, meu nome é Luiz Gutemberg, sou <strong>Front-end Developer</strong> e  estudante de <strong>Web Full Stack</strong>.
+🖖<h1 align="left">Olá 👋 tudo bem ?</h1>
+
+###
+
+<h1 align="left"></h1>
+
+###
+
+<p align="left">Me chamo, Luiz Gutemberg, sou Desenvolvedor Front-end e estudante de Web Full Stack .</p>
+
+###
+
+<p align="left">🎯 Objetivos: Tenho interesse em atuar na área de Desenvolvimento como<br>Desenvolvedor Front End.<br>Gosto de trabalhar com interface gráfica, UI/UX - experiência do<br>usuário.</p>
+
+###
+
+<h2 align="left"></h2>
+
+###
 
 <div align="center">
-  <a href="https://github.com/luizgutemberg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizgutemberg&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizgutemberg&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="55" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="55" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="55" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="55" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="55" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="55" alt="figma logo"  />
 </div>
 
+###
 
-<div style="display: inline_block"><br>
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/luizgutemberg/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="barretoluiz90@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
+  </a>
 </div>
-  
-  ##
- 
-<div align="inline_block">
 
-  <a href="https://www.instagram.com/luizgutembergg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	
-  <a href = "mailto:barretoluiz90@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+###
 
-  <a href="https://www.linkedin.com/in/luizgutemberg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="left">
 </div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
