@@ -1,5 +1,3 @@
-
-
 🖖<h1 align="left">Olá 👋 tudo bem ?</h1>
 
 ###
