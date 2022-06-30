@@ -2,19 +2,25 @@
 
 ###
 
+<h2 align="left">Sobre mim</h2>
+
+###
+
 <p align="left">🌐 Me chamo Luiz Gutemberg, sou Desenvolvedor Front End e UI Designer. Atualmente também atuo como freelancer em interfaces modernas e de alta qualidade.</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<br clear="both">
 
-###
-
-<p align="left">📚	💻 Sou um dos estudantes de Web full Stack do projeto Desenvolve estruturado pelo Grupo Boticário em conjunto com Alura.<br><br>Além de ser um amante da tecnologia, sou um profissional calmo, atencioso, com grande facilidade em lidar e resolver problemas.</p>
+<p align="left">📚	💻 Sou um dos estudantes de Web full Stack do projeto Desenvolve estruturado pelo Grupo Boticário em conjunto com Alura, onde  estou me especializando, como Back e Fronte End. E em outras linguagens de programação como, Node.Js, Java, React, Git<br>e SQL.<br><br><br>Além de ser um amante da tecnologia, sou um profissional calmo, atencioso, com grande facilidade em lidar e resolver problemas.</p>
 
 ###
 
 <h2 align="center">Habilidades</h2>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -30,10 +36,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/luizgutemberg/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -42,5 +44,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
