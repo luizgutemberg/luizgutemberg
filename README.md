@@ -23,7 +23,7 @@ Ex-desenvolvedor Front-End e UI Designer com experiência em interfaces modernas
 **Atualmente em transição de carreira para Análise de Dados** — apaixonado por transformar dados em insights que geram valor real para empresas.
 
 - 🌱 Estudando intensivamente **Python para Data Science** e **Power BI**  
-- 🎯 Objetivo: me tornar Analista de Dados pleno até o final de 2026  
+- 🎯 Objetivo: me tornar Analista de Dados até o final de 2026  
 - 💼 Aberto a freelas e oportunidades na área de dados (BI, análise, automação, etc.)
 
 <br>
